@@ -1,0 +1,5 @@
+ofxDatGui
+ofxFluid
+ofxFX
+ofxGui
+ofxKinectCommonBridge
